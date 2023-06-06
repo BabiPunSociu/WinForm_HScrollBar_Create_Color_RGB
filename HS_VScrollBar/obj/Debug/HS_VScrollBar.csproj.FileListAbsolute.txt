@@ -1,0 +1,33 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\bin\Debug\HS_VScrollBar.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\bin\Debug\HS_VScrollBar.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\bin\Debug\HS_VScrollBar.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ViDuTrenLop\HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\bin\Debug\HS_VScrollBar.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\bin\Debug\HS_VScrollBar.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\bin\Debug\HS_VScrollBar.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\Bài Tập LTTQ c.Huong\Bai13_Trang75_HS_VScrollBar\HS_VScrollBar\obj\Debug\HS_VScrollBar.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\bin\Debug\HS_VScrollBar.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\bin\Debug\HS_VScrollBar.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\bin\Debug\HS_VScrollBar.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.Form1.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.exe
+C:\Users\ADMIN\OneDrive\Máy tính\WinForm_HScrollBar_Create_Color_RGB\HS_VScrollBar\obj\Debug\HS_VScrollBar.pdb
